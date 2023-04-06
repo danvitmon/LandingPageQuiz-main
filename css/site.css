@@ -106,10 +106,10 @@ body {
     display: flex;
     flex-direction: column;
     background-image: url("/img/LandingPage_1920.png");
-    background-position: -450px 0px;
+    background-position: 0px 0px;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: 170%;
+    background-size: 110%;
     background-color: var(--cf-darkblue);
 }
 
@@ -134,7 +134,7 @@ body {
     }
     
     .mainHeader-cover {
-        margin-top: 170px;
+        margin-top: 50px;
     }
 }
 
